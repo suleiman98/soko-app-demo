@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Run this to install all dependencies
 
+### `libraries and/or frameworks used`
+
+-- TailwindCSS for styling
+
+-- React Alice Carousel for carousel
+
+-- React Router for routing
+
 ## Available Scripts
 
 In the project directory, you can run:
